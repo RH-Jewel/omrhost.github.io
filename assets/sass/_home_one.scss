@@ -1475,6 +1475,13 @@ footer {
 }
 
 .footer-widget {
+    .f-logo {
+        margin-bottom: 40px;
+
+        img {
+            max-width: 200px;
+        }
+    }
 
     h5 {
         font-size: 18px;
